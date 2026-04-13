@@ -1,0 +1,14 @@
+[
+  { "latin": "canis",    "english": "dog" },
+  { "latin": "coquus",   "english": "cook" },
+  { "latin": "est",      "english": "is" },
+  { "latin": "filius",   "english": "son" },
+  { "latin": "hortus",   "english": "garden" },
+  { "latin": "in",       "english": "in" },
+  { "latin": "labōrat",  "english": "works, is working" },
+  { "latin": "māter",    "english": "mother" },
+  { "latin": "pater",    "english": "father" },
+  { "latin": "sedet",    "english": "sits, is sitting" },
+  { "latin": "servus",   "english": "slave" },
+  { "latin": "via",      "english": "street" }
+]
