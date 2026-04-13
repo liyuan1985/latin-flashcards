@@ -162,9 +162,9 @@
   <h1>🏛️ Latin Flashcards</h1>
 
   <div class="mode-bar">
-    <button class="mode-btn active" onclick="setMode('en-la')">English → Latin</button>
+    <button class="mode-btn" onclick="setMode('en-la')">English → Latin</button>
     <button class="mode-btn" onclick="setMode('la-en')">Latin → English</button>
-    <button class="mode-btn" onclick="setMode('random')">Random</button>
+    <button class="mode-btn active" onclick="setMode('random')">Random</button>
   </div>
 
   <div class="score-bar">
@@ -188,7 +188,7 @@
 
   <script>
     let vocab = [];
-    let mode = 'en-la';   // 'en-la' | 'la-en' | 'random'
+    let mode = 'random';  // 'en-la' | 'la-en' | 'random'
     let currentIndex = -1;
     let cardCount = 0;
     let scoreCorrect = 0;
